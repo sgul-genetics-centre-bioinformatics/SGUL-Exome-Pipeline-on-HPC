@@ -5,12 +5,12 @@ Scripts for QC, Alignemnt, Variant Calling and Joint Genotyping of Exome Sequenc
    - Directory/file structure:
       -  /Exomes
           
-           -./Aligned
-           -./Unaligned
-           -./VCF
-           -./Annotated
-           -./gVCF
-           -./Jobs
+           - ./Aligned
+           - ./Unaligned
+           - ./VCF
+           - ./Annotated
+           - ./gVCF
+           - ./Jobs
 
 
    - Needs the following resources to run: For more information check dependencies.py
