@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#SGUL GENETICS CENTRE EXOME PIPELINE APRIL 2019
+#SGUL GENETICS CENTRE EXOME PIPELINE ON SGUL HPC MAY 2019
 #Alan Pittman & Dionysios Grigoriadis
 
 #Dependencies for the pipeline
