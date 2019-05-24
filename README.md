@@ -4,6 +4,7 @@ Scripts for QC, Alignemnt, Variant Calling and Joint Genotyping of Exome Sequenc
 
    - Directory/file structure:
       -  /Exomes
+          
            -./Aligned
            -./Unaligned
            -./VCF
