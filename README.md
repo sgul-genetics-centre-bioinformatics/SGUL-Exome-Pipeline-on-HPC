@@ -46,7 +46,7 @@ e.g.
        
        ### in the Exome directory:
        
-       python pipeline_Exome_SGUL_HPC_v1.1.py <prject directory>
+       python pipeline_Exome_SGUL_HPC_v1.1.py MyProject1
 
        
        
